@@ -16,7 +16,7 @@ import {
 import DeleteIcon from '@mui/icons-material/Delete';
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080/api/tasks';
+const API_BASE_URL = 'http://localhost:8081/api/tasks';
 
 function App() {
   const [tasks, setTasks] = useState([]);
