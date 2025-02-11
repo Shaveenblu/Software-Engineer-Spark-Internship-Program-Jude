@@ -59,21 +59,20 @@ Follow these steps to set up the project locally on your machine.
   <li>run app by npm start and springboot app by running the main class SparkinternshipjudeApplication</li>
 
   <li>Horray!! Now to app is running</li>
+  <br/>
+  <li>If you need to run test cases run the TestIntegration file in sparkinternshipjude\src\test\java\com\jude\sparkinternshipjude Folder</li>
 
-<li>Click run</li>
 </ul>
 
 **Prerequisites**
 
 Make sure you have the following installed on your machine:
 <ul>
-  <summary>Java</summary>
-  <summary>Android Studio Hedgehog or later</summary>
-  <summary>Firebase Account</summary>
+  <summary>Java 21</summary>
+  <summary>MySQL80</summary>
+  <summary>Intellij, VSCode, Eclipse or any IDE</summary>
 </ul>
 
-## <a name="more">🚀 More</a>
-<p> More updates coming soon</p>
 
 
 <br />
